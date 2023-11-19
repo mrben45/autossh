@@ -38,11 +38,11 @@ case $men in
 1)
 echo "$h perintah benar$a"
 sleep 1
-rm -rf badut
+rm -rf autossh
 rm -rf .plankston
 sleep 1
 git clone https://github.com/mrben45/SSH
-mv badut .plankston
+mv autossh .plankston
 sleep 1
 echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
 sleep 0.5
@@ -75,11 +75,11 @@ exit
 2)
 echo "$h perintah benar$a"
 sleep 1
-rm -rf badut
+rm -rf autossh
 rm -rf .plankston
 sleep 1
 git clone https://github.com/mrben45/SSH
-mv badut .plankston
+mv autossh .plankston
 sleep 1
 echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
 sleep 0.5
@@ -112,7 +112,7 @@ exit
 3)
 echo "$h perintah benar$a"
 sleep 1
-rm -rf badut
+rm -rf autossh
 rm -rf .plankston
 sleep 1
 git clone https://github.com/mrben45/SSH
@@ -149,11 +149,11 @@ exit
 4)
 echo "$h perintah benar$a"
 sleep 1
-rm -rf badut
+rm -rf autossh
 rm -rf .plankston
 sleep 1
 git clone https://github.com/mrben45/SSH
-mv badut .plankston
+mv autossh .plankston
 sleep 1
 echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
 sleep 0.5
@@ -186,11 +186,11 @@ exit
 5)
 echo "$h perintah benar$a"
 sleep 1
-rm -rf badut
+rm -rf autossh
 rm -rf .plankston
 sleep 1
 git clone https://github.com/mrben45/SSH
-mv badut .plankston
+mv autossh .plankston
 sleep 1
 echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
 sleep 0.5
@@ -223,11 +223,11 @@ exit
 6)
 echo "$h perintah benar$a"
 sleep 1
-rm -rf badut
+rm -rf autossh
 rm -rf .plankston
 sleep 1
 git clone https://github.com/mrben45/SSH
-mv badut .plankston
+mv autossh .plankston
 sleep 1
 echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
 sleep 0.5
@@ -260,12 +260,12 @@ exit
 7)
 echo "$h perintah benar$a"
 sleep 1
-#rm -rf badut
+#rm -rf autossh
 #rm -rf .plankston
 sleep 1
 #xdg-open https://wa.me/6289618602219
 #git clone https://github.com/mrben45/badut
-#mv badut .plankston
+#mv autossh .plankston
 sleep 1
 echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
 sleep 0.5
