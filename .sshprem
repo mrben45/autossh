@@ -1,0 +1,40 @@
+logo='\033[0;46m'
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
+
+clear
+apt search ssh
+echo $m
+sleep 1
+echo "selamat datang tuan plankston"
+sleep 0.1
+echo "selamat menikmati fitur2 ssh gratis"
+sleep 0.1
+echo "gunakan dengan bijak"
+echo ""
+sleep 0.1
+echo "$h author : plankston"
+echo $m
+sleep 0.1
+echo ""
+sleep 0.1
+echo $m
+echo "tidak ada yang abadi didunia ini"
+sleep 0.1
+echo "begitupun dengan bug internet"
+sleep 0.1
+echo ""
+sleep 0.1
+echo "kita tunggu update an"
+sleep 0.1
+echo "dari para sepuh semoga"
+sleep 0.1
+echo "menemukan bug2 baru"
+sleep 0.1
+echo ""
+sleep 5

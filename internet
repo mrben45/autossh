@@ -1,0 +1,314 @@
+#!/usr/bin/bash
+#plankston
+
+logo='\033[0;46m'
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
+
+#ls /$PREFIX/bin && sleep 3 && sh .sshprem
+clear
+echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+echo "$c ┃$h selamat$m datang$k di$c fitur$n plankston$c ┃"
+echo "$c ┃$h =================================$c ┃"
+echo "$c ┃$m 1 $a) $k .SSH WS SINGAPURE $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 2 $a) $k .SSH WS BRAZIL    $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 3 $a) $k .VMESS SINGAPURE  $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 4 $a) $k .VMESS INDONESIA  $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 5 $a) $k .UDP SINGAPURE    $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 6 $a) $k .UDP GERMANY      $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 7 $a) $k .hubungi author   $a [$h ON$a ]$c    ┃"
+echo "$c ┃$m 0 $a) $m .kluar program           $c    ┃"
+echo "$c ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯"
+echo $h
+sh .plankston/data
+echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+echo "$k ┃ AKUN SSH/VMESS/UDP 100% GRATIS$h √$k  ┃"
+echo "$k ┃                                   ┃"
+echo "$k ┃$n  Author  :$h plankston      $k        ┃"
+echo "$k ┃$n Facebook :$h Plankston Darkz$k        ┃"
+echo "$k ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$a"
+read -p " pilih menu : " men
+
+case $men in
+1)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf badut
+rm -rf .plankston
+sleep 1
+git clone https://github.com/mrben45/SSH
+mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/sg
+sh .plankston/l
+echo ""
+exit
+;;
+
+2)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf badut
+rm -rf .plankston
+sleep 1
+git clone https://github.com/mrben45/SSH
+mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/br
+sh .plankston/l
+echo ""
+exit
+;;
+
+3)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf badut
+rm -rf .plankston
+sleep 1
+git clone https://github.com/mrben45/SSH
+mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/vmesssg
+sh .plankston/l
+echo ""
+exit
+;;
+
+4)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf badut
+rm -rf .plankston
+sleep 1
+git clone https://github.com/mrben45/SSH
+mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/vmessid
+sh .plankston/l
+echo ""
+exit
+;;
+
+5)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf badut
+rm -rf .plankston
+sleep 1
+git clone https://github.com/mrben45/SSH
+mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/udpsg
+sh .plankston/l
+echo ""
+exit
+;;
+
+6)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf badut
+rm -rf .plankston
+sleep 1
+git clone https://github.com/mrben45/SSH
+mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/udpgm
+sh .plankston/l
+echo ""
+exit
+;;
+
+7)
+echo "$h perintah benar$a"
+sleep 1
+#rm -rf badut
+#rm -rf .plankston
+sleep 1
+#xdg-open https://wa.me/6289618602219
+#git clone https://github.com/mrben45/badut
+#mv badut .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+#cat .plankston/udp
+echo " OTOMATIS AKAN DIARAHKAN KE WHATSAPP"
+sleep 1
+xdg-open https://wa.me/6289618602219
+sh .plankston/l
+echo ""
+exit
+;;
+
+0)
+echo "$m thanks😊😊😊"
+echo $h
+echo ""
+exit
+;;
+*)
+echo "$k perintah anda salah"
+sleep 3
+sh internet
+exit
+esac
+exit
+done
