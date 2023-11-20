@@ -1,40 +1,8 @@
-logo='\033[0;46m'
-a='\033[30;0m'
-n='\033[0m'
-h='\033[32;1m'
-m='\033[31;1m'
-c='\033[36;1m'
-p='\033[1;35m'
-k='\033[33;1m'
+#!/usr/bin/bash
+#salam santuy by plankston
 
-clear
-apt search ssh
-echo $m
-sleep 1
-echo "selamat datang tuan plankston"
-sleep 0.1
-echo "selamat menikmati fitur2 ssh gratis"
-sleep 0.1
-echo "gunakan dengan bijak"
-echo ""
-sleep 0.1
-echo "$h author : plankston"
-echo $m
-sleep 0.1
-echo ""
-sleep 0.1
-echo $m
-echo "tidak ada yang abadi didunia ini"
-sleep 0.1
-echo "begitupun dengan bug internet"
-sleep 0.1
-echo ""
-sleep 0.1
-echo "kita tunggu update an"
-sleep 0.1
-echo "dari para sepuh semoga"
-sleep 0.1
-echo "menemukan bug2 baru"
-sleep 0.1
-echo ""
-sleep 5
+
+
+z="
+";lBz='moga';xz=' "gu';ez='p 1';Az='logo';cBz='ungg';Dz=';46m';gBz=' "da';rz='ati ';TBz='gitu';dz='slee';Kz='0m'\''';Zz='ch s';Rz='p='\''\';uz='sh g';WBz='an b';wz='s"';FBz=' "$h';LBz='ada ';Gz='033[';NBz=' aba';dBz='u up';CBz=' bij';nz='p 0.';EBz=' ""';iBz='ara ';YBz='nter';QBz='ia i';ABz='n de';cz=' $m';sz='fitu';IBz=': pl';BBz='ngan';kz='n pl';RBz='ni"';Hz='30;0';Ez=''\''';HBz='hor ';Lz='h='\''\';SBz=' "be';pBz='kan ';GBz=' aut';yz='naka';az='sh';Iz='m'\''';KBz='dak ';aBz=' "ki';fBz=' an"';VBz='deng';tBz='p 5';Oz='31;1';Fz='a='\''\';hBz='ri p';lz='anks';Qz='36;1';OBz='di d';pz='t me';JBz=' "ti';fz=' "se';Wz='r';XBz='ug i';tz='r2 s';Nz='m='\''\';UBz='pun ';Cz='33[0';kBz='h se';Uz='33;1';bBz='ta t';Bz='='\''\0';gz='lama';Vz='clea';nBz=' "me';oz='1';Mz='32;1';jBz='sepu';iz='tang';ZBz='net"';eBz='date';oBz='nemu';MBz='yang';Tz='k='\''\';jz=' tua';Pz='c='\''\';mBz='"';hz='t da';bz='echo';PBz='idun';qz='nikm';Jz='n='\''\';qBz='bug2';mz='ton"';vz='rati';sBz='u"';Yz='sear';Sz='1;35';rBz=' bar';Xz='apt ';DBz='ak"';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$z$Jz$Gz$Kz$z$Lz$Gz$Mz$Iz$z$Nz$Gz$Oz$Iz$z$Pz$Gz$Qz$Iz$z$Rz$Gz$Sz$Iz$z$Tz$Gz$Uz$Iz$z$Vz$Wz$z$Xz$Yz$Zz$az$z$bz$cz$z$dz$ez$z$bz$fz$gz$hz$iz$jz$kz$lz$mz$z$dz$nz$oz$z$bz$fz$gz$pz$qz$rz$sz$tz$uz$vz$wz$z$dz$nz$oz$z$bz$xz$yz$ABz$BBz$CBz$DBz$z$bz$EBz$z$dz$nz$oz$z$bz$FBz$GBz$HBz$IBz$lz$mz$z$bz$cz$z$dz$nz$oz$z$bz$EBz$z$dz$nz$oz$z$bz$cz$z$bz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$dz$nz$oz$z$bz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$dz$nz$oz$z$bz$EBz$z$dz$nz$oz$z$bz$aBz$bBz$cBz$dBz$eBz$fBz$z$dz$nz$oz$z$bz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$z$dz$nz$oz$z$bz$nBz$oBz$pBz$qBz$rBz$sBz$z$dz$nz$oz$z$bz$EBz$z$dz$tBz"
