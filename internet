@@ -1,12 +1,582 @@
-#assalamualaikum
-#autossh100work
-#author by plankston
+#!/usr/bin/bash
+#plankston
 
+logo='\033[0;46m'
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
 
+#ls /$PREFIX/bin && sleep 3 && sh .sshprem
+clear
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+cp .update $HOME
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+clear
+sleep 1
+sh .plankston/.tamp
+sh .plankston/.tamp2
+sh .plankston/.tamp3
+#echo $h
+sh .plankston/data
+sh .plankston/data2
+echo $n
+read -p " pilih menu : " men
 
+case $men in
+1)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/sg
+sh .plankston/l
+echo ""
+exit
+;;
 
+2)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/br
+sh .plankston/l
+echo ""
+exit
+;;
 
+3)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/vmesssg
+sh .plankston/l
+echo ""
+exit
+;;
 
-z="
-";RDz='] 00';ECz='E PR';Cz='33[0';Mz='32;1';ODz='nar$';OCz='m .K';IBz='ur$n';Gz='033[';kBz='MESS';YEz=' 𝙲�';wCz='z$k ';TFz=' tha';TCz=' ╰━━';pCz='ton ';TEz='PROG';sDz='�"';LDz=' per';HFz='PP"';dz='n';cCz='SSH/';ZEz='�𝚖�';iDz='■■■■';JCz='UBUN';eEz=' 10%';JEz='4)';BBz=' sel';vCz='Dark';yDz='n/l';PBz='==$c';RFz='0)';Wz='r';yCz='read';KDz=' "$h';LEz='5)';qz='mv S';Iz='m'\''';kDz='] 70';fEz='[■■ ';AEz=' ""';jBz='k .V';gz='cp .';NEz='dpsg';wDz='on/s';iEz=' 30%';GDz='case';Fz='a='\''\';VEz='[   ';UEz='RAM ';EBz='atan';XCz='n/da';lz=' .au';rCz=' Fac';yBz='DP G';rDz='�𝚎�';cFz='nter';WCz='sh .';KCz='GI A';aDz=' [■■';nDz='0% �';ABz=' ┃$h';oCz='h pl';EFz='AN K';rz='SH .';dDz='] 30';Az='logo';LFz='ps:/';Kz='0m'\''';CCz=' 7 $';Jz='n='\''\';sz='echo';MDz='inta';WBz='NGAP';SCz='c   ';cEz='�𝚍"';fBz='S BR';WFz='�"';qEz=' 90%';Uz='33;1';kCz=' ┃  ';ZCz=' "$k';KFz=' htt';DDz='menu';BDz='" pi';nCz='  :$';RBz=' 1 $';Qz='36;1';TBz='k .S';mDz='] 90';gCz='0% G';QFz='2219';KBz='nkst';IFz='xdg-';xBz=' 6 $';nz='BYpl';PCz='ELUA';UBz='SH W';REz=' UPD';NFz='me/6';KEz='id';NBz=' ===';vDz='.pla';UCz='━╯"';VCz=' $h';CBz='amat';XDz='5';oBz=' 4 $';Oz='31;1';qBz='ONES';aCz=' ┃ A';Hz='30;0';mCz='  Au';hz='upda';xDz='g';CFz=' DIA';lBz=' SIN';fCz='P 10';WEz='   ]';BFz='AKAN';MCz='R   ';DBz='$m d';JFz='open';jz='HOME';uBz='DP S';tCz='k :$';mEz=' 70%';mBz='GAPU';eFz='esac';yz='1';qCz=' $k ';Sz='1;35';iz='te $';wz='━╮"';jDz='] 60';ICz='k .H';Zz='SH';XFz='*)';fFz='done';IDz='n in';uEz='ME/.';ZDz='] 10';VDz='𝚎𝚝';FFz='E WH';hCz='RATI';TDz='𝚘𝚖';AFz='TIS ';FDz=' men';XBz='URE ';uCz='h Pl';fz='p 1';Nz='m='\''\';eBz=' 2 $';UDz='𝚙𝚕';HDz=' $me';cz='ksto';Dz=';46m';fDz='] 40';jEz=' 40%';Vz='clea';RCz='   $';tz=' "$c';xz='p 0.';wEz='8)';GBz='di$c';GCz='M   ';nBz='RE  ';dFz='net';GEz='on/v';YBz='$a [';aBz='N$a ';cDz='■   ';ADz=' -p ';xEz=' " O';jCz='√$k ';YFz='h an';EDz=' : "';Bz='='\''\0';PDz='a"';EEz='on/b';sBz=' 5 $';aEz='�𝚕�';PFz='1860';uz=' ╭━━';FEz='3)';JDz='1)';OFz='2896';az='rf .';dEz='[■  ';sCz='eboo';Yz='rf S';IEz='sg';gDz='■■■ ';hEz='[■■■';LBz='on$c';MFz='/wa.';pz='ton';oEz=' 80%';dBz='"';ACz='ERMA';YCz='ta';FBz='g$k ';cBz='   ┃';ez='slee';QDz=' [  ';QCz='R PR';UFz='nks�';bDz='] 20';lDz='] 80';MEz='on/u';BEz='exit';YDz=' [■ ';CDz='lih ';JBz=' pla';vz='━━━━';rBz='IA  ';tDz='p 3';SFz=' "$m';lCz=' ┃$n';BCz='NY  ';tEz=' $HO';rEz='■■■]';CEz=';;';NDz='h be';iBz=' 3 $';bz='plan';Pz='c='\''\';HEz='mess';PEz='dpgm';yEz='TOMA';OEz='6)';ZBz='$h O';QEz='7)';XEz=' 00%';vEz='te';qDz='�𝚎�';wBz='PURE';oDz='�𝚘�';hDz='] 50';DFz='RAHK';eCz='S/UD';gBz='AZIL';uDz='cat ';DCz='PDAT';WDz='𝚎𝚍';DEz='2)';VBz='S SI';bEz='�𝚝�';eDz='■■  ';pDz='�𝚙�';FCz='OGRA';xCz='━╯$a';SBz='a) $';lEz=' 60%';LCz='UTHO';Lz='h='\''\';kz='bash';GFz='ATSA';sEz=' 100';hBz='    ';MBz=' ┃"';kEz=' 50%';gEz=' 20%';bBz=']$c ';nEz='■  ]';HCz=' 8 $';tBz='k .U';pBz=' IND';Tz='k='\''\';oz='anks';SEz='ATE ';VFz='�😊�';OBz='====';HBz=' fit';QBz=' ┃$m';SDz='% 𝙲';dCz='VMES';ZFz='da s';bCz='KUN ';Rz='p='\''\';pEz='■■ ]';aFz='alah';Xz='rm -';Ez=''\''';bFz='sh i';mz='thor';vBz='INGA';iCz='S$h ';NCz=' 0 $';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$z$Jz$Gz$Kz$z$Lz$Gz$Mz$Iz$z$Nz$Gz$Oz$Iz$z$Pz$Gz$Qz$Iz$z$Rz$Gz$Sz$Iz$z$Tz$Gz$Uz$Iz$z$Vz$Wz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$gz$hz$iz$jz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$Vz$Wz$z$ez$fz$z$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$z$ez$xz$yz$z$sz$tz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$z$ez$xz$yz$z$sz$tz$ABz$NBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$PBz$MBz$z$ez$xz$yz$z$sz$tz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$eBz$SBz$TBz$UBz$fBz$gBz$hBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$iBz$SBz$jBz$kBz$lBz$mBz$nBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$oBz$SBz$jBz$kBz$pBz$qBz$rBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$sBz$SBz$tBz$uBz$vBz$wBz$hBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$xBz$SBz$tBz$yBz$ACz$BCz$hBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$CCz$SBz$tBz$DCz$ECz$FCz$GCz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$HCz$SBz$ICz$JCz$KCz$LCz$MCz$YBz$ZBz$aBz$bBz$cBz$dBz$z$ez$xz$yz$z$sz$tz$QBz$NCz$SBz$OCz$PCz$QCz$FCz$GCz$hBz$RCz$SCz$MBz$z$ez$xz$yz$z$sz$tz$TCz$vz$vz$vz$vz$vz$vz$vz$vz$UCz$z$sz$VCz$z$WCz$bz$cz$XCz$YCz$z$ez$xz$yz$z$sz$ZCz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$z$ez$xz$yz$z$sz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$MBz$z$ez$xz$yz$z$sz$ZCz$kCz$hBz$hBz$hBz$hBz$hBz$hBz$hBz$hBz$MBz$z$ez$xz$yz$z$sz$ZCz$lCz$mCz$mz$nCz$oCz$oz$pCz$hBz$qCz$hBz$cBz$dBz$z$ez$xz$yz$z$sz$ZCz$lCz$rCz$sCz$tCz$uCz$oz$pCz$vCz$wCz$hBz$cBz$dBz$z$ez$xz$yz$z$sz$ZCz$TCz$vz$vz$vz$vz$vz$vz$vz$vz$xCz$dBz$z$ez$xz$yz$z$yCz$ADz$BDz$CDz$DDz$EDz$FDz$z$GDz$HDz$IDz$z$JDz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$uDz$vDz$KBz$wDz$xDz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$DEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$uDz$vDz$KBz$EEz$Wz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$FEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$uDz$vDz$KBz$GEz$HEz$IEz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$JEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$uDz$vDz$KBz$GEz$HEz$KEz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$LEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$uDz$vDz$KBz$MEz$NEz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$OEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$bz$cz$dz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$uDz$vDz$KBz$MEz$PEz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$QEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$Xz$Yz$Zz$z$Xz$az$bz$cz$dz$z$ez$fz$z$ez$fz$z$sz$KDz$REz$SEz$TEz$UEz$VEz$hBz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$dEz$hBz$WEz$eEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$fEz$hBz$WEz$gEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$hBz$WEz$iEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$cDz$WEz$jEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$eDz$WEz$kEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$gDz$WEz$lEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$iDz$WEz$mEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$iDz$nEz$oEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$iDz$pEz$qEz$YEz$ZEz$aEz$bEz$cEz$z$ez$xz$XDz$z$sz$KDz$REz$SEz$TEz$UEz$hEz$iDz$rEz$sEz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$tDz$z$kz$tEz$uEz$hz$vEz$z$sz$AEz$z$BEz$z$CEz$z$wEz$z$sz$KDz$LDz$MDz$NDz$ODz$PDz$z$ez$fz$z$ez$fz$z$ez$fz$z$sz$KDz$QDz$hBz$hBz$RDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$YDz$hBz$hBz$ZDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$hBz$hBz$bDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$cDz$hBz$dDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$eDz$hBz$fDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$gDz$hBz$hDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$hBz$jDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$cDz$kDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$eDz$lDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$gDz$mDz$SDz$TDz$UDz$VDz$WDz$dBz$z$ez$xz$XDz$z$sz$KDz$aDz$iDz$iDz$ZDz$nDz$oDz$pDz$qDz$rDz$sDz$z$ez$tDz$z$sz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$z$ez$fz$z$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$z$WCz$bz$cz$yDz$z$sz$AEz$z$BEz$z$CEz$z$RFz$z$sz$SFz$TFz$UFz$VFz$WFz$z$sz$VCz$z$sz$AEz$z$BEz$z$CEz$z$XFz$z$sz$ZCz$LDz$MDz$YFz$ZFz$aFz$dBz$z$ez$tDz$z$bFz$cFz$dFz$z$BEz$z$eFz$z$BEz$z$fFz"
+4)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/vmessid
+sh .plankston/l
+echo ""
+exit
+;;
+
+5)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/udpsg
+sh .plankston/l
+echo ""
+exit
+;;
+
+6)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/udpgm
+sh .plankston/l
+echo ""
+exit
+;;
+
+7)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/indo
+sh .plankston/l
+echo ""
+exit
+;;
+
+8)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/singa
+sh .plankston/l
+echo ""
+exit
+;;
+
+9)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/luar
+sh .plankston/l
+echo ""
+exit
+;;
+
+10)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/vmess
+sh .plankston/l
+echo ""
+exit
+;;
+
+11)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/claud
+sh .plankston/l
+echo ""
+exit
+;;
+
+12)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+bash .authorBYplankston
+#git clone https://github.com/mrben45/SSH
+mv SSH .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+cat .plankston/udp
+sh .plankston/l
+echo ""
+exit
+;;
+
+13)
+echo "$h perintah benar$a"
+sleep 1
+rm -rf SSH
+rm -rf .plankston
+sleep 1
+#bash $HOME/.update
+#git clone https://github.com/mrben45/SSH
+#mv SSH .plankston
+sleep 1
+echo "$h UPDATE PROGRAM [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h UPDATE PROGRAM [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+bash $HOME/.update
+echo ""
+exit
+;;
+
+14)
+echo "$h perintah benar$a"
+sleep 1
+#rm -rf SSH
+#rm -rf .plankston
+sleep 1
+#xdg-open https://wa.me/6289618602219
+#git clone https://github.com/mrben45/badut
+#mv autossh .plankston
+sleep 1
+echo "$h [          ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■         ] 10% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■        ] 20% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■       ] 30% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■      ] 40% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■     ] 50% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■    ] 60% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■   ] 70% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■  ] 80% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■ ] 90% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 0.5
+echo "$h [■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍"
+sleep 3
+#cat .plankston/udp
+echo " OTOMATIS AKAN DIARAHKAN KE WHATSAPP"
+sleep 1
+xdg-open https://wa.me/6289618602219
+sh .plankston/l
+echo ""
+exit
+;;
+
+0)
+echo "$m thanks😊😊😊"
+echo $h
+echo ""
+exit
+;;
+*)
+echo "$k perintah anda salah"
+sleep 3
+sh internet
+exit
+esac
+exit
+done
