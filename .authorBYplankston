@@ -1,80 +1,8 @@
-#author by plankston
-#autossh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#plankston
 
 
 
 
 z="
-";Hz='Regu';kBz='xtbl';eBz='Text';dBz='m'\''  ';FBz='undb';Kz='ed='\''';cBz='st='\''';Pz=';32m';JBz='bakb';NBz='grou';UBz='3m'\'' ';uBz='clon';Yz=';34m';wz='bldw';VBz='4m'\'' ';SBz='2m'\'' ';EBz='undy';XBz='5m'\'' ';Bz='lk='\''';Wz='ow';nBz='n it';Mz='Red';cz=';35m';KBz='0m'\'' ';gBz='et';QBz='1m'\'' ';Oz='rn='\''';CBz='undr';nz='e';Cz='\e[0';dz='Purp';HBz='undc';Qz='Gree';DCz='/SSH';YBz='bakc';yz='\e[4';GBz='undp';gz='yn='\''';ABz='Unde';xz='unkb';fz='txtc';Nz='txtg';sBz='"';bBz='7m'\'' ';LBz='  # ';ACz='.com';iz='Cyan';Vz='Yell';Sz='txty';Fz='Blac';kz='ht='\''';tBz='git ';Rz='n';oBz='alic';BCz='/mrb';rz='bldr';pz='\e[1';jz='txtw';tz='bldy';iBz=' -e ';DBz='undg';vz='bldc';vBz='e ht';MBz='Back';ZBz='6m'\'' ';yBz='thub';Gz='k - ';qz='Bold';IBz='undw';Ez=''\'' # ';Zz='Blue';pBz='s${E';PBz='bakr';uz='bldp';xBz='//gi';TBz='baky';Xz='lu='\''';ez='le';bz='ur='\''';WBz='bakp';oz='bldb';hBz='echo';mBz='alia';lBz='k}It';Jz='txtr';OBz='nd';CCz='en45';jBz='"${t';fBz=' Res';rBz='LOR}';sz='bldg';Iz='lar';Lz=';31m';az='txtp';Dz=';30m';wBz='tps:';hz=';36m';mz='Whit';Uz=';33m';aBz='bakw';BBz='rlin';Az='txtb';qBz='NDCO';lz=';37m';RBz='bakg';Tz='lw='\''';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Cz$Lz$Ez$Mz$z$Nz$Oz$Cz$Pz$Ez$Qz$Rz$z$Sz$Tz$Cz$Uz$Ez$Vz$Wz$z$Az$Xz$Cz$Yz$Ez$Zz$z$az$bz$Cz$cz$Ez$dz$ez$z$fz$gz$Cz$hz$Ez$iz$z$jz$kz$Cz$lz$Ez$mz$nz$z$oz$Bz$pz$Dz$Ez$Fz$Gz$qz$z$rz$Kz$pz$Lz$Ez$Mz$z$sz$Oz$pz$Pz$Ez$Qz$Rz$z$tz$Tz$pz$Uz$Ez$Vz$Wz$z$oz$Xz$pz$Yz$Ez$Zz$z$uz$bz$pz$cz$Ez$dz$ez$z$vz$gz$pz$hz$Ez$iz$z$wz$kz$pz$lz$Ez$mz$nz$z$xz$Bz$yz$Dz$Ez$Fz$Gz$ABz$BBz$nz$z$CBz$Kz$yz$Lz$Ez$Mz$z$DBz$Oz$yz$Pz$Ez$Qz$Rz$z$EBz$Tz$yz$Uz$Ez$Vz$Wz$z$FBz$Xz$yz$Yz$Ez$Zz$z$GBz$bz$yz$cz$Ez$dz$ez$z$HBz$gz$yz$hz$Ez$iz$z$IBz$kz$yz$lz$Ez$mz$nz$z$JBz$Bz$yz$KBz$LBz$Fz$Gz$MBz$NBz$OBz$z$PBz$Kz$yz$QBz$LBz$Mz$z$RBz$Oz$yz$SBz$LBz$Qz$Rz$z$TBz$Tz$yz$UBz$LBz$Vz$Wz$z$JBz$Xz$yz$VBz$LBz$Zz$z$WBz$bz$yz$XBz$LBz$dz$ez$z$YBz$gz$yz$ZBz$LBz$iz$z$aBz$kz$yz$bBz$LBz$mz$nz$z$Jz$cBz$Cz$dBz$LBz$eBz$fBz$gBz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz"
+";kz='ht='\''';BCz='/wkw';CCz='kwkw';jz='txtw';bBz='7m'\'' ';xz='unkb';Kz='ed='\''';WBz='bakp';Rz='n';Sz='txty';ABz='Unde';tBz='git ';mz='Whit';DBz='undg';TBz='baky';dz='Purp';tz='bldy';GBz='undp';Zz='Blue';VBz='4m'\'' ';Vz='Yell';bz='ur='\''';RBz='bakg';cBz='st='\''';hz=';36m';rz='bldr';Nz='txtg';SBz='2m'\'' ';cz=';35m';OBz='nd';CBz='undr';Gz='k - ';aBz='bakw';Lz=';31m';dBz='m'\''  ';sz='bldg';MBz='Back';eBz='Text';yBz='thub';KBz='0m'\'' ';Xz='lu='\''';az='txtp';fBz=' Res';Fz='Blac';vz='bldc';Iz='lar';HBz='undc';sBz='"';Bz='lk='\''';rBz='LOR}';lz=';37m';gBz='et';nz='e';hBz='echo';nBz='n it';ACz='.com';YBz='bakc';NBz='grou';Oz='rn='\''';qBz='NDCO';LBz='  # ';xBz='//gi';QBz='1m'\'' ';iBz=' -e ';EBz='undy';uz='bldp';qz='Bold';Az='txtb';wBz='tps:';vBz='e ht';pz='\e[1';oz='bldb';PBz='bakr';Hz='Regu';yz='\e[4';Ez=''\'' # ';Dz=';30m';IBz='undw';JBz='bakb';Pz=';32m';BBz='rlin';XBz='5m'\'' ';FBz='undb';iz='Cyan';DCz='k12/';pBz='s${E';ECz='SSH';Jz='txtr';jBz='"${t';uBz='clon';UBz='3m'\'' ';Yz=';34m';gz='yn='\''';Qz='Gree';ZBz='6m'\'' ';oBz='alic';Tz='lw='\''';mBz='alia';Mz='Red';fz='txtc';Cz='\e[0';lBz='k}It';Wz='ow';ez='le';wz='bldw';Uz=';33m';kBz='xtbl';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Cz$Lz$Ez$Mz$z$Nz$Oz$Cz$Pz$Ez$Qz$Rz$z$Sz$Tz$Cz$Uz$Ez$Vz$Wz$z$Az$Xz$Cz$Yz$Ez$Zz$z$az$bz$Cz$cz$Ez$dz$ez$z$fz$gz$Cz$hz$Ez$iz$z$jz$kz$Cz$lz$Ez$mz$nz$z$oz$Bz$pz$Dz$Ez$Fz$Gz$qz$z$rz$Kz$pz$Lz$Ez$Mz$z$sz$Oz$pz$Pz$Ez$Qz$Rz$z$tz$Tz$pz$Uz$Ez$Vz$Wz$z$oz$Xz$pz$Yz$Ez$Zz$z$uz$bz$pz$cz$Ez$dz$ez$z$vz$gz$pz$hz$Ez$iz$z$wz$kz$pz$lz$Ez$mz$nz$z$xz$Bz$yz$Dz$Ez$Fz$Gz$ABz$BBz$nz$z$CBz$Kz$yz$Lz$Ez$Mz$z$DBz$Oz$yz$Pz$Ez$Qz$Rz$z$EBz$Tz$yz$Uz$Ez$Vz$Wz$z$FBz$Xz$yz$Yz$Ez$Zz$z$GBz$bz$yz$cz$Ez$dz$ez$z$HBz$gz$yz$hz$Ez$iz$z$IBz$kz$yz$lz$Ez$mz$nz$z$JBz$Bz$yz$KBz$LBz$Fz$Gz$MBz$NBz$OBz$z$PBz$Kz$yz$QBz$LBz$Mz$z$RBz$Oz$yz$SBz$LBz$Qz$Rz$z$TBz$Tz$yz$UBz$LBz$Vz$Wz$z$JBz$Xz$yz$VBz$LBz$Zz$z$WBz$bz$yz$XBz$LBz$dz$ez$z$YBz$gz$yz$ZBz$LBz$iz$z$aBz$kz$yz$bBz$LBz$mz$nz$z$Jz$cBz$Cz$dBz$LBz$eBz$fBz$gBz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz"
