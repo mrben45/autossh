@@ -1,50 +1,8 @@
-txtblk='\e[0;30m' # Black - Regular
-txtred='\e[0;31m' # Red
-txtgrn='\e[0;32m' # Green
-txtylw='\e[0;33m' # Yellow
-txtblu='\e[0;34m' # Blue
-txtpur='\e[0;35m' # Purple
-txtcyn='\e[0;36m' # Cyan
-txtwht='\e[0;37m' # White
-bldblk='\e[1;30m' # Black - Bold
-bldred='\e[1;31m' # Red
-bldgrn='\e[1;32m' # Green
-bldylw='\e[1;33m' # Yellow
-bldblu='\e[1;34m' # Blue
-bldpur='\e[1;35m' # Purple
-bldcyn='\e[1;36m' # Cyan
-bldwht='\e[1;37m' # White
-unkblk='\e[4;30m' # Black - Underline
-undred='\e[4;31m' # Red
-undgrn='\e[4;32m' # Green
-undylw='\e[4;33m' # Yellow
-undblu='\e[4;34m' # Blue
-undpur='\e[4;35m' # Purple
-undcyn='\e[4;36m' # Cyan
-undwht='\e[4;37m' # White
-bakblk='\e[40m'   # Black - Background
-bakred='\e[41m'   # Red
-bakgrn='\e[42m'   # Green
-bakylw='\e[43m'   # Yellow
-bakblu='\e[44m'   # Blue
-bakpur='\e[45m'   # Purple
-bakcyn='\e[46m'   # Cyan
-bakwht='\e[47m'   # White
-txtrst='\e[0m'    # Text Reset
+#toolss
 
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-git clone https://github.com/wkwkwkwk12/SSH
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pkg install figlet -y
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pkg install python python-pip -y
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pip install speedtest-cli
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pip2 install pygeoip
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pip install pygeoip
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pip3 install pygeoip
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
-pip install mechanize
+
+
+
+z="
+";vBz='e ht';jBz='"${t';bCz='oip';ZCz='eoip';Xz='lu='\''';Jz='txtr';FBz='undb';tz='bldy';sBz='"';fz='txtc';XCz='tall';Nz='txtg';YCz=' pyg';WBz='bakp';gz='yn='\''';XBz='5m'\'' ';Mz='Red';nBz='n it';Tz='lw='\''';KCz='y';Lz=';31m';oBz='alic';LBz='  # ';mz='Whit';HCz='all ';kz='ht='\''';cCz='pip3';UCz='i';xz='unkb';lBz='k}It';Ez=''\'' # ';Zz='Blue';OBz='nd';ZBz='6m'\'' ';CCz='kwkw';rz='bldr';NBz='grou';Yz=';34m';lz=';37m';sz='bldg';EBz='undy';Kz='ed='\''';KBz='0m'\'' ';tBz='git ';wz='bldw';ez='le';Sz='txty';VBz='4m'\'' ';kBz='xtbl';Vz='Yell';aCz='pyge';bz='ur='\''';dz='Purp';Fz='Blac';BCz='/wkw';ACz='.com';RCz='spee';Wz='ow';eCz='aniz';yBz='thub';Bz='lk='\''';uz='bldp';DCz='k12/';HBz='undc';Cz='\e[0';QCz='pip ';cBz='st='\''';ECz='SSH';dBz='m'\''  ';oz='bldb';VCz='pip2';RBz='bakg';ABz='Unde';UBz='3m'\'' ';nz='e';fBz=' Res';Hz='Regu';pBz='s${E';az='txtp';jz='txtw';BBz='rlin';rBz='LOR}';xBz='//gi';LCz='pyth';SBz='2m'\'' ';TCz='t-cl';WCz=' ins';Iz='lar';bBz='7m'\'' ';CBz='undr';YBz='bakc';PCz='p -y';MCz='on p';Pz=';32m';Qz='Gree';GBz='undp';iBz=' -e ';JCz='et -';hBz='echo';DBz='undg';Az='txtb';mBz='alia';TBz='baky';iz='Cyan';Rz='n';Gz='k - ';IBz='undw';hz=';36m';vz='bldc';MBz='Back';SCz='dtes';dCz='mech';uBz='clon';JBz='bakb';FCz='pkg ';Oz='rn='\''';QBz='1m'\'' ';cz=';35m';Dz=';30m';qz='Bold';ICz='figl';eBz='Text';GCz='inst';PBz='bakr';pz='\e[1';Uz=';33m';yz='\e[4';wBz='tps:';qBz='NDCO';NCz='ytho';aBz='bakw';gBz='et';OCz='n-pi';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Cz$Lz$Ez$Mz$z$Nz$Oz$Cz$Pz$Ez$Qz$Rz$z$Sz$Tz$Cz$Uz$Ez$Vz$Wz$z$Az$Xz$Cz$Yz$Ez$Zz$z$az$bz$Cz$cz$Ez$dz$ez$z$fz$gz$Cz$hz$Ez$iz$z$jz$kz$Cz$lz$Ez$mz$nz$z$oz$Bz$pz$Dz$Ez$Fz$Gz$qz$z$rz$Kz$pz$Lz$Ez$Mz$z$sz$Oz$pz$Pz$Ez$Qz$Rz$z$tz$Tz$pz$Uz$Ez$Vz$Wz$z$oz$Xz$pz$Yz$Ez$Zz$z$uz$bz$pz$cz$Ez$dz$ez$z$vz$gz$pz$hz$Ez$iz$z$wz$kz$pz$lz$Ez$mz$nz$z$xz$Bz$yz$Dz$Ez$Fz$Gz$ABz$BBz$nz$z$CBz$Kz$yz$Lz$Ez$Mz$z$DBz$Oz$yz$Pz$Ez$Qz$Rz$z$EBz$Tz$yz$Uz$Ez$Vz$Wz$z$FBz$Xz$yz$Yz$Ez$Zz$z$GBz$bz$yz$cz$Ez$dz$ez$z$HBz$gz$yz$hz$Ez$iz$z$IBz$kz$yz$lz$Ez$mz$nz$z$JBz$Bz$yz$KBz$LBz$Fz$Gz$MBz$NBz$OBz$z$PBz$Kz$yz$QBz$LBz$Mz$z$RBz$Oz$yz$SBz$LBz$Qz$Rz$z$TBz$Tz$yz$UBz$LBz$Vz$Wz$z$JBz$Xz$yz$VBz$LBz$Zz$z$WBz$bz$yz$XBz$LBz$dz$ez$z$YBz$gz$yz$ZBz$LBz$iz$z$aBz$kz$yz$bBz$LBz$mz$nz$z$Jz$cBz$Cz$dBz$LBz$eBz$fBz$gBz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$FCz$GCz$HCz$ICz$JCz$KCz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$FCz$GCz$HCz$LCz$MCz$NCz$OCz$PCz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$QCz$GCz$HCz$RCz$SCz$TCz$UCz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$VCz$WCz$XCz$YCz$ZCz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$QCz$GCz$HCz$aCz$bCz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$cCz$WCz$XCz$YCz$ZCz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$QCz$GCz$HCz$dCz$eCz$nz"
